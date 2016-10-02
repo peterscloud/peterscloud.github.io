@@ -1,0 +1,2 @@
+#override the url in the development environment
+url: "http://10.1.0.1:32769" # the base hostname & protocol for your site
